@@ -1,5 +1,5 @@
 {
-    "name": "macademy/magento2-module-sentimate",
+    "name": "dnmrk/magento2-module-sentimate",
     "description": "The Sentimate module runs setiment analysis on review & more!.",
     "require": {
         "php": "^8.1",
