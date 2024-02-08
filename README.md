@@ -31,7 +31,7 @@ Why should you use this module? This provides additional feedback to customers t
 ## Installation
 
 ```
-composer require macademy/magento2-module-disabletwofactorauth
+composer require dnmrk/magento2-module-disabletwofactorauth
 bin/magento module:enable Macademy_Sentimate
 bin/magento setup:upgrade
 ```
